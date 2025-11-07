@@ -1,0 +1,11 @@
+fever,cough,fatigue,headache,nausea,weight_loss,chest_pain,yellow_skin,body_pain,sweating,disease
+1,1,1,1,0,0,0,0,1,1,Dengue
+1,0,1,1,1,0,0,0,1,1,Malaria
+0,1,1,0,0,1,1,0,0,1,Tuberculosis
+0,0,1,0,0,1,0,0,0,0,Diabetes
+1,0,0,0,1,0,0,1,0,0,Jaundice
+1,1,0,1,0,0,0,0,1,1,Dengue
+1,0,1,1,1,0,0,0,1,1,Malaria
+0,1,1,0,0,1,1,0,0,1,Tuberculosis
+0,0,1,0,0,1,0,0,0,0,Diabetes
+1,0,0,0,1,0,0,1,0,0,Jaundice
